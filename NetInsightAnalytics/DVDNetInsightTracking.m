@@ -12,12 +12,6 @@
 
 @implementation DVDNetInsightTracking
 
-#include
-
-#define VERSION (3.7)
-
-@implementation NetInsightTracking
-
 @synthesize locationManager;
 @synthesize bestEffortAtLocation;
 @synthesize pageNamed, postalCode;

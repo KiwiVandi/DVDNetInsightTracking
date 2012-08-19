@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
+#define VERSION (3.7)
+
 @interface DVDNetInsightTracking : NSObject
 
 @end
